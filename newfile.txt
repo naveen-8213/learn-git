@@ -1,1 +1,1 @@
-this is newfile content
+new content  for conflict
